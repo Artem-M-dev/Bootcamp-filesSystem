@@ -1,0 +1,20 @@
+.search {
+    width: 300px;
+    // height: 30px;
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+    border: 1px solid rgb(138, 138, 138);
+    padding: 0 5px;
+    margin-bottom: 10px;
+    input {
+        outline: none;
+        border: none;
+        background-color: transparent;
+        color: white;
+    }
+    img {
+        width: 25px;
+        height: 25px;
+    }
+}
